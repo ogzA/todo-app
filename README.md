@@ -1,3 +1,9 @@
+![App Stack](./app-stack.png)
+
+## App Preview
+
+![App Preview](./app-preview.png)
+
 ## Configuration
 
 Install npm packages
